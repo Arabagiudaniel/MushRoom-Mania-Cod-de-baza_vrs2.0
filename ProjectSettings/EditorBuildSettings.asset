@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Levels/_MainMenu.unity
+    guid: 039dbef11820da6459f2c4d91241e739
+  - enabled: 1
+    path: Assets/Levels/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Levels/Level 2.unity
+    guid: f2e68b870dfa0824db23bdd274ddd2c7
+  - enabled: 1
+    path: Assets/Levels/Level 4.unity
+    guid: 03c39ac364474a04aa3f0007d9e493fa
+  - enabled: 1
+    path: Assets/Levels/Level 3.unity
+    guid: 5187499c61091314dbd70aa01d13d9dc
+  - enabled: 1
+    path: Assets/Levels/CutScene.unity
+    guid: ab69287fc22e7c446b0e41a0f8aae59a
+  m_configObjects:
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: a0bff99db9445dd4cae5c67df7758b12, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 270177aa5c0a89649a57acca87cf4311, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: d0a6348fd8322d7458b02e726e07ea5e, type: 2}
